@@ -4,6 +4,8 @@ A minimal **C++23 project for STM32F4** built with **Clang 24 + LLVM libc / libc
 Using CMake with C++23 modules support. 
 CMSIS and STM32 HAL are fetched from ST’s GitHub.
 
+All this has been tested under Windows 11.
+
 ## Prerequisites
 
 | Component |
