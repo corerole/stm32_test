@@ -13,7 +13,7 @@ All this has been tested under Windows 11.
 | **CMake** |
 | **Ninja** |
 | **Clang** |
-| **LLVM libc / libc++ / libc++abi / libunwind** |
+| **LLVM toolchain** |
 | **Python** |
 | **Git** |
 
