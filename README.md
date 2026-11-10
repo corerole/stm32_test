@@ -17,7 +17,9 @@ All this has been tested under Windows 11.
 | **Python** |
 | **Git** |
 
-## Building LLVM host tools
+
+
+## [Building LLVM host tools](https://drive.google.com/file/d/1DshtHsRlIdWLDkUaL78zKC8CYNKj4SiA/view?usp=sharing)
 
 ```bash
 git clone https://github.com/llvm/llvm-project.git
